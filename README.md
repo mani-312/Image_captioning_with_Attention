@@ -4,7 +4,9 @@
 - **Resnet** model is used for encoding the images.
 - **LSTM** cells with attention are used as decoder for generating the caption of the image.
 
-  ## Results
+## Model
+![](model.png)
+## Results
   ![](predictions/alphas_time_step_14.jpg)
   ![](predictions/alphas_img_6.jpg)
   ![](predictions/alphas_img_3.jpg)
