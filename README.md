@@ -4,6 +4,8 @@
 - **Resnet** model is used for encoding the images.
 - **LSTM** cells with attention are used as decoder for generating the caption of the image.
 
+- Link to the folder that contains FLickr8k dataset, JSON format of coco and flickr8k datasets [link](https://drive.google.com/drive/folders/1QDv7--xZqgVX-wtsImcEoBwvY5-ctFJa?usp=drive_link)
+
 ## Model
 ![](model.png)
 ## Results
